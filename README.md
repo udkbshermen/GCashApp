@@ -1,9 +1,11 @@
+## GCash App
+
 A simple Java Swing project that simulates basic GCash features like login, cash-in, balance checking, transfer, and transaction history.
 It connects to a MySQL database for storing user and transaction data.
 
 ---
 
-### Features
+## Features
 
 * User login
 * Cash-in
@@ -13,7 +15,7 @@ It connects to a MySQL database for storing user and transaction data.
 
 ---
 
-### How to Run
+## How to Run
 
 1. Import the `gcashapp.sql` file into your MySQL.
 2. Update your MySQL username and password in `DatabaseConnection.java`.
@@ -25,7 +27,7 @@ It connects to a MySQL database for storing user and transaction data.
 
 ---
 
-### Tools Used
+## Tools Used
 
 * Java
 * MySQL
