@@ -3,8 +3,6 @@
 A simple Java Swing project that simulates basic GCash features like login, cash-in, balance checking, transfer, and transaction history.
 It connects to a MySQL database for storing user and transaction data.
 
---
-
 ## Features
 
 * User login
@@ -12,8 +10,6 @@ It connects to a MySQL database for storing user and transaction data.
 * Transfer money
 * Check balance
 * View transaction history
-
---
 
 ## How to Run
 
@@ -24,8 +20,6 @@ It connects to a MySQL database for storing user and transaction data.
 5. Credentials:
    Number: 09171234567
    PIN: 1234
-
---
 
 ## Tools Used
 
